@@ -1,6 +1,7 @@
 # opixer.uploader.js
 基于百度上传组件webuploader为基础进行的二次封装上传插件
 
+<code>
 需要引入三个文件：
 <script type="text/javascript" src="../jquery-1.12.1.js"></script>
 <script type="text/javascript" src="../webuploader/dist/webuploader.js"></script>
@@ -37,3 +38,4 @@ HTML结构：
 		}
 	});
 </script>
+</code>
